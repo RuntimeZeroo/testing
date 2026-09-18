@@ -30,4 +30,4 @@ console.log(add(5, 3));              // 8
 console.log(isEven(4));               // true
 console.log(reverseString("hello"));   // "olleh"
 console.log(findMax([1, 5, 3, 9]));    // 9
-console.log(countVowels("hello"));     // 2
+     // 2
